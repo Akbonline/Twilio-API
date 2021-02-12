@@ -2,7 +2,7 @@
 
 A multi-client video conferencing application using Twilio API and Python's Flask web framework. 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 ## Usage
 
